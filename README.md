@@ -40,32 +40,29 @@ To run the project locally, you will need the following dependencies:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/Ha-banna/sentiment-analysis-yelp.git
+   git clone https://github.com/Ha-banna/Sentiment-Analysis.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd sentiment-analysis-yelp
+   cd Sentiment-Analysis
    ```
 
 3. Install the necessary libraries if you haven't already:
 
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 4. Run the Jupyter notebook for training the model:
 
    ```bash
-   jupyter notebook Sentiment_Analysis_Model.ipynb
+   jupyter notebook Sentiment_Analysis_(Final).ipynb
    ```
 
 ---
 
 ## Project Files
 
-- **Sentiment_Analysis_Model.ipynb**: Jupyter notebook with the implementation for text preprocessing, model training, and evaluation.
+- **Sentiment_Analysis_(Final).ipynb**: Jupyter notebook with the implementation for text preprocessing, model training, and evaluation.
 
 ---
 
